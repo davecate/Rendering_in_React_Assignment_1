@@ -1,5 +1,4 @@
 import React from "react";
-import "./HobbyList.css";
 
 function HobbyList( { hobbies } ) {
 

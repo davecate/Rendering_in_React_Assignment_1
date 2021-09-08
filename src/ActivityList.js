@@ -1,6 +1,5 @@
 import React from "react";
 import Activity from "./Activity.js"
-import "./ActivityList.css";
 
 function ActivityList( { activities } ) {
 
